@@ -1,8 +1,8 @@
 github_username:  In1th
 email: mateusz_kruk@outlook.com
-url: "/" 
+url: "https://github.com/In1th" 
 
-#theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 title: Mateusz Kruk
 description: Curriculum Vitae
 

@@ -6,7 +6,7 @@
 - **phone number:** +48 501 036 244
 - **github:** https://github.com/In1th
 
-### Table of Contents
+## Table of Contents
 
 ## About me
 
