@@ -8,11 +8,11 @@
 
 ## Table of Contents
 
-- [About me](https://in1th.github.io/kruk-cv/#About-me)
-- [Education and Courses](https://in1th.github.io/kruk-cv/#Education-and-Courses)
-- [Achievements](https://in1th.github.io/kruk-cv/#Achievements)
-- [Technical Skills](https://in1th.github.io/kruk-cv/#Technical-skills)
-- [Soft skills](https://in1th.github.io/kruk-cv/#Soft-skills)
+- [About me](#about-me)
+- [Education and Courses](#education-and-courses)
+- [Achievements](#achievements)
+- [Technical Skills](#technical-skills)
+- [Soft skills](#soft-skills)
 
 ## About me
 
