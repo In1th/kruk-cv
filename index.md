@@ -18,7 +18,15 @@
 
 ## Education and Courses
 
+# - Jagiellonian University
+    2020 -      - Applied Computer Science
+
+# - High School of Technical University of Białystok
+    2017 - 2020
+
 ## Achievements
+
+## Work Experience
 
 ## Technical Skills
 
