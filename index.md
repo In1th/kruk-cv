@@ -1,13 +1,17 @@
 [Last updated: 11.06.2021]
 
-# Contact
+## Contact
 
-## Table of Contents
+- **e-mail:** mateusz_kruk@outlook.com
+- **phone number:** +48 501 036 244
+- **github:** https://github.com/In1th
 
-# About me
+### Table of Contents
 
-# Education and Courses
+## About me
 
-# Achievements
+## Education and Courses
 
-# Technical Skills
+## Achievements
+
+## Technical Skills
