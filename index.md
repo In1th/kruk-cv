@@ -4,7 +4,7 @@
 
 - **e-mail:** mateusz_kruk@outlook.com
 - **phone number:** +48 501 036 244
-- **github:** https://github.com/In1th
+- **github:** [link](https://github.com/In1th)
 
 ## Table of Contents
 
