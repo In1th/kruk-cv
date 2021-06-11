@@ -75,6 +75,6 @@
 
 ## Languages
 
-**English** - Upper-intermediate
-**Rusian** - basic
-**Japanese** - learning
+- **English** - Upper-intermediate
+- **Rusian** - basic
+- **Japanese** - learning
