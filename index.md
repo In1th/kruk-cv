@@ -19,6 +19,8 @@
 
 ## About me
 
+I'm a computer science student with a passion for games of any kind and form. While trying my best to improve my skills and proficiency at Game Developement and Design, I'm grasping every opportunity to better myself in other fields, like Data Science. I'm willing to take hard problems and try to solve them with a team or by myself. 
+
 ## Education and Courses
 
 ### - Jagiellonian University
@@ -35,6 +37,9 @@
 
 ## Work and Project Experience
 
+### - McDonald's
+12.07.2021 -           , Restaurant Employee
+
 ### - Grocery Store "Dorcia"
 07.2019 - 10.2020, Shop Assistant
 
@@ -44,6 +49,18 @@
 ### - JPET project
 10.2020 -        , Data Conversion
 [(project link)](http://koza.if.uj.edu.pl/pet/)
+
+### - Tetris project
+10.2020 - 01.2021, minimal project of tetris
+[(github link)](https://github.com/In1th/tetris)
+
+### - CLI Game
+05.2021 -        , equipement system evolving into a game
+[(github link)](https://github.com/In1th/gaia-aftermath)
+
+### - Keyboard trainer
+2020 - working windowed-based keyboard trainer
+[(github link)](https://github.com/In1th/keyboard_trainer)
 
 ## Technical Skills
 
@@ -63,8 +80,10 @@
 
 ## Soft skills
 - fast learning skills
-- working in a team
-- communicativeness
+- teamwork
+- problem-solving
+- creativity
+- friendliness
 
 ## Interests
 - board and video games
