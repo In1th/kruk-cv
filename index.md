@@ -76,7 +76,6 @@ I'm a computer science student with a passion for games of any kind and form. Wh
 - Java
 - C#/.NET
 - Unity
-- Docker
 
 ## Soft skills
 - fast learning skills
