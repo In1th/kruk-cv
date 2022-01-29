@@ -1,4 +1,4 @@
-[Last updated: 11.06.2021]
+[Last updated: 29.01.2022]
 
 ## Contact
 
@@ -37,8 +37,10 @@ I'm a computer science student with a passion for games of any kind and form. Wh
 
 ## Work and Project Experience
 
+Please note that not all my repositories, projects and code examples are listed below. Those are my recent project, as a demonstration of my programming skills.
+
 ### - McDonald's
-12.07.2021 -           , Restaurant Employee
+07.2021 - 09.2021, Restaurant Employee
 
 ### - Grocery Store "Dorcia"
 07.2019 - 10.2020, Shop Assistant
@@ -46,34 +48,38 @@ I'm a computer science student with a passion for games of any kind and form. Wh
 ### - "Rotary" Club in BIałystok
 2019, math tutor
 
-### - JPET project
+### - Smart home UI (Unity/C#)
+10.2021 - 01.2022, UI done in Unity for my course
+[(project link)](https://github.com/In1th/smort-home)
+
+### - JPET project (Python)
 10.2020 -        , Data Conversion
 [(project link)](http://koza.if.uj.edu.pl/pet/)
 
-### - Tetris project
+### - Tetris project (C)
 10.2020 - 01.2021, minimal project of tetris
 [(github link)](https://github.com/In1th/tetris)
 
-### - CLI Game
-05.2021 -        , equipement system evolving into a game
-[(github link)](https://github.com/In1th/gaia-aftermath)
+### - Algorihms and Data Structures Assigments (C++)
+10.2021 -        , assigments from my course, also attempts at making my C++ code "advanced"
+[(github link)](https://github.com/In1th/AISD)
 
-### - Keyboard trainer
-2020 - working windowed-based keyboard trainer
-[(github link)](https://github.com/In1th/keyboard_trainer)
+### - T9 Dictionary (Java)
+10.2021 - 01.2022 - working T9 dictionary with Swing UI.
+[(github link)]()
 
 ## Technical Skills
 
 **Proficient at:**
-- C/C++
-- Python
+- C/C++, Makefile
+- Python (numpy, matplotlib)
 - Git repositories
 - Linux usage
-- Makefile
+- Java
+- Unity
 
 **Basic knowledge/Learning:**
 - Bash scripting
-- Java
 - C#/.NET
 - Unity
 - JavaScript 
