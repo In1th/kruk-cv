@@ -1,12 +1,12 @@
 [Last updated: 29.01.2022]
 
-## Contact
+## Contact ☎
 
 - **e-mail:** mateusz_kruk@outlook.com
 - **phone number:** +48 501 036 244
 - **github:** [link](https://github.com/In1th)
 
-## Table of Contents
+## Table of Contents 🧮
 
 - [About me](#about-me)
 - [Education and Courses](#education-and-courses)
@@ -17,11 +17,11 @@
 - [Interests](#interests)
 - [Languages](#languages)
 
-## About me
+## About me 📑
 
 I'm a computer science student with a passion for games of any kind and form. While trying my best to improve my skills and proficiency at Game Developement and Design, I'm grasping every opportunity to better myself in other fields, like Data Science. I'm willing to take hard problems and try to solve them with a team or by myself. 
 
-## Education and Courses
+## Education and Courses 🎓
 
 ### - Jagiellonian University
 2020 -     , Applied Computer Science
@@ -29,13 +29,13 @@ I'm a computer science student with a passion for games of any kind and form. Wh
 ### - High School of Technical University of Białystok
 2017 - 2020, Computer Science
 
-## Achievements
+## Achievements ✨
 
 ### - "Matematyka Stosowana" Competition
 2020, 1st place
 [(competition info in Polish)](https://signum.pb.edu.pl/konkurs/?page_id=32)
 
-## Work and Project Experience
+## Work and Project Experience 💻
 
 Please note that not all my repositories, projects and code examples are listed below. Those are my recent project, as a demonstration of my programming skills.
 
@@ -70,7 +70,7 @@ ___
 10.2021 - 01.2022 - working T9 dictionary with Swing UI.
 [(github link)]()
 
-## Technical Skills
+## Technical Skills 🔨
 
 **Proficient at:**
 - C/C++, Makefile
@@ -86,21 +86,21 @@ ___
 - Unity
 - JavaScript 
 
-## Soft skills
+## Soft skills 💡
 - fast learning skills
 - teamwork
 - problem-solving
 - creativity
 - friendliness
 
-## Interests
+## Interests 🎷
 - board and video games
 - movies and series
 - cosplay
 - science, astronomy
 - voluntary service
 
-## Languages
+## Languages 🌍
 
 - **English** - Upper-intermediate
 - **Rusian** - basic
