@@ -8,14 +8,14 @@
 
 ## Table of Contents 🧮
 
-- [About me](#about-me)
-- [Education and Courses](#education-and-courses)
-- [Achievements](#achievements)
-- [Work and Project Experience](#work-and-project-experience)
-- [Technical Skills](#technical-skills)
-- [Soft skills](#soft-skills)
-- [Interests](#interests)
-- [Languages](#languages)
+- [About me](#about-me-📑)
+- [Education and Courses](#education-and-courses-🎓)
+- [Achievements](#achievements-✨)
+- [Work and Project Experience](#work-and-project-experience-💻)
+- [Technical Skills](#technical-skills-🔨)
+- [Soft skills](#soft-skills-💡)
+- [Interests](#interests-🎷)
+- [Languages](#languages-🌍)
 
 ## About me 📑
 
