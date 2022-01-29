@@ -48,6 +48,8 @@ Please note that not all my repositories, projects and code examples are listed 
 ### - "Rotary" Club in BIałystok
 2019, math tutor
 
+___
+
 ### - Smart home UI (Unity/C#)
 10.2021 - 01.2022, UI done in Unity for my course
 [(project link)](https://github.com/In1th/smort-home)
