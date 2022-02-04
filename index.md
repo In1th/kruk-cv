@@ -21,6 +21,8 @@
 
 I'm a computer science student with a passion for games of any kind and form. While trying my best to improve my skills and proficiency at Game Developement and Design, I'm grasping every opportunity to better myself in other fields, like Data Science. I'm willing to take hard problems and try to solve them with a team or by myself. 
 
+Currently I'm the president of Gamedev Students Association students club on UJ, trying to reactivate a club.
+
 ## Education and Courses 🎓
 
 ### - Jagiellonian University
